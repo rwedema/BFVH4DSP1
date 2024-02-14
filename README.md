@@ -25,9 +25,9 @@ The structure of the tutorial folders is as follow:
 ```
 
 #### seting up the workspace
-within a virtual environment install snakemake
+within a conda virtual environment install snakemake
 ```
-pip install snakemake
+conda install -c bioconda snakemake
 ```
 if applicable configure the `config.yaml` to set the datapaths
 
