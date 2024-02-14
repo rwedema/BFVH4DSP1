@@ -37,7 +37,7 @@ snakemake --snakefile Snakefile --cores n
 ```
 
 #### more to read
-https://fennaf.gitbook.io/bfvh4dsp1/
+https://r-wedema.gitbook.io/snakemake/
 
 #### contact info
-f.feenstra@pl.hanze.nl
+r.wedema@pl.hanze.nl
